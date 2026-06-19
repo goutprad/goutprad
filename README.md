@@ -1,80 +1,94 @@
-Hi 👋, I'm Goutam Pradhan
-🚀 Passionate about building scalable data pipelines and distributed systems.
-
-# 💫 About Me:
-
-🔭 I’m currently working on:
-Building scalable data pipelines and distributed data processing systems at Walmart
-Processing large-scale datasets using Apache Spark and SQL
-Designing reliable ETL workflows and data architectures for analytics and reporting
-Optimizing data structures and algorithms to improve performance
-
-🤝 I’m looking to collaborate on:
-Projects involving data platforms, data pipelines, and distributed data processing
-Engineering challenges focused on performance optimization and scalable architectures
-
-
-💡 I’m looking to help with:
-Designing data pipelines and ETL workflows
-Improving data processing performance and scalability
-Solving complex data structure and algorithm problems
-System design and architecture for large-scale applications
-Contributing to projects involving data platforms, APIs, and distributed systems
-
-
-📚 I’m currently exploring:
-Advanced data architecture and distributed data processing techniques
-Real-time data processing systems and large-scale data platforms
-Designing scalable systems and system design patterns for high-throughput data applications
-Building Agentic tools and AI-driven automation workflows
-New technologies in the modern data engineering ecosystem such as streaming systems, orchestration tools, and scalable data infrastructure
-Exploring better approaches to data pipeline reliability, performance optimization, and observability
-
-💬 Ask me about:
-Data Engineering and data pipelines
-Apache Spark, SQL, Hadoop and distributed data processing
-Data structures and algorithms
-System Design (HLD, LLD, OOP)
-Backend development with Java and Spring
-
-🌟 Fun Fact:
-I enjoy solving challenging data structure and algorithm problems and optimizing systems to efficiently handle large-scale data processing.
-
 # Hi 👋, I'm Goutam Pradhan
 
-💻 Data Engineer | Spark | Java | Scala | Python | System Design | Data Structure & Algorithm | Cloud Service
+### Data Engineer | Distributed Systems | Apache Spark | AI & Agentic AI | Java | Scala | Python | System Design
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Data Engineering projects
-- 🌱 Learning System Design & Low Level Design
-- 👯 Looking to collaborate on Spark / Data projects
-- 💬 Ask me about Java, Spark, Data Pipelines
+Passionate about building scalable data platforms, distributed systems, AI-powered applications, and high-performance data pipelines that efficiently process large-scale data and drive intelligent decision-making.
+
+* 🔭 Building scalable data pipelines and distributed data processing systems
+* ⚡ Processing large-scale datasets using Apache Spark and SQL
+* 🏗️ Designing reliable ETL workflows and modern data architectures
+* 🤖 Building AI-powered applications, Agentic AI workflows, and intelligent automation solutions
+* 🌱 Continuously learning Distributed Systems, System Design, Data Platform Engineering, and AI technologies
+* 🤝 Open to collaborating on Data Engineering, Spark, AI, Agentic AI, and Backend Engineering projects
+* 💡 Interested in performance optimization, scalability, software architecture, and intelligent automation
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Java
-- Scala
-- Apache Spark
-- Python
-- Airflow
-- SQL
-- System Design
-- Data Structure & Algorithm
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages & Data Engineering
+
+Java • Scala • Python • SQL • Spark • Hadoop • Airflow • ETL • Data Warehousing • Data Modeling
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Agentic AI
+
+Generative AI • Agentic AI • LLM Applications • Prompt Engineering • RAG • Vector Databases • AI Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Backend & System Design
+
+Spring Boot • REST APIs • Microservices • Distributed Systems • HLD • LLD • OOP
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Tools & Platforms
+
+Git • Linux • Docker • Cloud Services
+
+</td>
+</tr>
+</table>
+
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goutprad&show_icons=true)
 
 ---
 
-## 📫 Connect with me
+## 📈 GitHub Statistics
 
-- LinkedIn: https://www.linkedin.com/in/goutam-pradhan-b7bb9695/
-- Email: gpradhan0224@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goutprad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutprad&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/goutam-pradhan-b7bb9695/
+* GitHub: https://github.com/goutprad
+* Email: [gpradhan0224@gmail.com](mailto:gpradhan0224@gmail.com)
+
+---
+
+## 🌟 Fun Fact
+
+I enjoy solving challenging Data Structure & Algorithm problems, optimizing distributed systems, building AI-powered applications, and designing scalable platforms capable of processing massive datasets efficiently.
