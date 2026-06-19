@@ -71,21 +71,34 @@ Git • Linux • Docker • Cloud Services
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goutprad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutprad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=goutprad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutprad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=goutprad&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/goutam-pradhan-b7bb9695/
-* GitHub: https://github.com/goutprad
-* Email: [gpradhan0224@gmail.com](mailto:gpradhan0224@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutam-pradhan-b7bb9695/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goutprad)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpradhan0224@gmail.com)
+
+</div>
 
 ---
 
