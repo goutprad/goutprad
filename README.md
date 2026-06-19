@@ -3,7 +3,7 @@
 ### Data Engineer | Distributed Systems | Apache Spark | AI & Agentic AI | Java | Scala | Python | System Design
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=goutprad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
