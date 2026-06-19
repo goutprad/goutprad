@@ -64,7 +64,31 @@ Git • Linux • Docker • Cloud Services
 
 
 ---
+## 🚀 Professional Interests
 
+### 🎯 Current Focus
+
+* Building scalable data platforms and data pipelines
+* Distributed data processing with Apache Spark
+* AI-powered applications and Agentic AI workflows
+* Retrieval-Augmented Generation (RAG) systems
+* Large-Scale System Design & Architecture
+* Performance Optimization & Scalability Engineering
+* Data Platform Reliability & Observability
+* Real-Time Data Processing Systems
+
+### 💬 Ask Me About
+
+* Data Engineering & ETL Pipelines
+* Apache Spark & PySpark
+* SQL Optimization & Data Modeling
+* Hadoop Ecosystem
+* Distributed Systems
+* Java, Scala & Python
+* System Design (HLD & LLD)
+* Data Structures & Algorithms
+* Backend Development with Spring Boot
+* AI, Agentic AI & RAG Applications
 
 
 ---
